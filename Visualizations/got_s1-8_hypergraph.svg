@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="29213.422"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-15239.822266 -15551.316406 29213.421875 27721.912109"
+     height="27721.912" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="966.0"
+              d="M 390.568390,10501.607422 C 1480.764404,9411.411133 1480.764404,11591.803711 390.568390,10501.607422"
+              class="id_3" stroke-opacity="1.0" stroke="#00d7f5"/>
+        <path fill="none" stroke-width="1825.0"
+              d="M 6552.631348,-13804.592773 C 7791.847168,-15043.808594 7791.847168,-12565.376953 6552.631348,-13804.592773"
+              class="id_0" stroke-opacity="1.0" stroke="#bc66ff"/>
+        <path fill="none" stroke-width="3635.0"
+              d="M 12522.620117,-2103.877686 C 13973.600586,-3554.857910 13973.600586,-652.897339 12522.620117,-2103.877686"
+              class="id_1" stroke-opacity="1.0" stroke="#ff8038"/>
+        <path fill="none" stroke-width="1442.5"
+              d="M 390.568390,10501.607422 C -2878.524414,12170.595703 -10285.646484,9770.438477 -11954.633789,6501.345703"
+              class="id_3 id_4" stroke-opacity="1.0" stroke="#00b09e"/>
+        <path fill="none" stroke-width="368.0"
+              d="M 11895.713867,7232.736328 C 10248.458984,10187.540039 3345.371582,12148.862305 390.568390,10501.607422"
+              class="id_2 id_3" stroke-opacity="1.0" stroke="#1dcf7a"/>
+        <path fill="none" stroke-width="2422.5"
+              d="M -13077.379883,-2908.204590 C -11720.517578,-4265.067383 -11720.517578,-1551.341797 -13077.379883,-2908.204590"
+              class="id_5" stroke-opacity="1.0" stroke="#ff2479"/>
+        <path fill="none" stroke-width="5904.5"
+              d="M -11954.633789,6501.345703 C -10354.633789,4901.345703 -10354.633789,8101.345703 -11954.633789,6501.345703"
+              class="id_4" stroke-opacity="1.0" stroke="#008a48"/>
+        <path fill="none" stroke-width="586.5"
+              d="M -13077.379883,-2908.204590 C -7701.827637,-2919.831787 378.941162,5126.055664 390.568390,10501.607422"
+              class="id_5 id_3" stroke-opacity="1.0" stroke="#7f7db7"/>
+        <path fill="none" stroke-width="809.0"
+              d="M 12522.620117,-2103.877686 C 9348.213867,4512.618164 -5338.137695,9675.751953 -11954.633789,6501.345703"
+              class="id_1 id_4" stroke-opacity="1.0" stroke="#7f8540"/>
+        <path fill="none" stroke-width="1335.5"
+              d="M 11895.713867,7232.736328 C 13032.968750,6095.481445 13032.968750,8369.991211 11895.713867,7232.736328"
+              class="id_2" stroke-opacity="1.0" stroke="#3ac700"/>
+        <path fill="none" stroke-width="684.0"
+              d="M -13077.379883,-2908.204590 C -10970.920898,-1250.843628 -10297.272461,4394.886230 -11954.633789,6501.345703"
+              class="id_5 id_4" stroke-opacity="1.0" stroke="#7f5760"/>
+        <path fill="none" stroke-width="390.5"
+              d="M -13077.379883,-2908.204590 C -7796.514160,-7867.339844 7563.484863,-7384.743652 12522.620117,-2103.877686"
+              class="id_5 id_1" stroke-opacity="1.0" stroke="#ff5258"/>
+        <path fill="none" stroke-width="460.5"
+              d="M 12522.620117,-2103.877686 C 12617.306641,2843.629639 5338.075684,10406.920898 390.568390,10501.607422"
+              class="id_1 id_3" stroke-opacity="1.0" stroke="#7fab96"/>
+        <path fill="none" stroke-width="143.5"
+              d="M 6552.631348,-13804.592773 C 10181.458984,-7710.939941 6484.221191,6872.779785 390.568390,10501.607422"
+              class="id_0 id_3" stroke-opacity="1.0" stroke="#5e9efa"/>
+        <path fill="none" stroke-width="505.0"
+              d="M 11895.713867,7232.736328 C 6979.365723,11856.527344 -7330.842285,11417.693359 -11954.633789,6501.345703"
+              class="id_2 id_4" stroke-opacity="1.0" stroke="#1da824"/>
+        <path fill="none" stroke-width="394.5"
+              d="M 11895.713867,7232.736328 C 10153.771484,5240.032227 10529.916016,-361.936066 12522.620117,-2103.877686"
+              class="id_2 id_1" stroke-opacity="1.0" stroke="#9ca31c"/>
+        <path fill="none" stroke-width="848.5"
+              d="M 6552.631348,-13804.592773 C 6912.365723,-6041.952148 -4191.993164,6141.611328 -11954.633789,6501.345703"
+              class="id_0 id_4" stroke-opacity="1.0" stroke="#5e78a3"/>
+        <path fill="none" stroke-width="93.5"
+              d="M 11895.713867,7232.736328 C 4872.906738,10199.166016 -10110.949219,4114.602539 -13077.379883,-2908.204590"
+              class="id_2 id_5" stroke-opacity="1.0" stroke="#9c753c"/>
+        <path fill="none" stroke-width="522.5"
+              d="M 6552.631348,-13804.592773 C 10086.771484,-12658.447266 13668.765625,-5638.018555 12522.620117,-2103.877686"
+              class="id_0 id_1" stroke-opacity="1.0" stroke="#dd739b"/>
+        <path fill="none" stroke-width="117.0"
+              d="M 11895.713867,7232.736328 C 6619.631836,4093.886963 3413.782227,-8528.510742 6552.631348,-13804.592773"
+              class="id_2 id_0" stroke-opacity="1.0" stroke="#7b967f"/>
+        <path fill="none" stroke-width="87.5"
+              d="M -13077.379883,-2908.204590 C -11330.654297,-9013.484375 447.351074,-15551.316406 6552.631348,-13804.592773"
+              class="id_5 id_0" stroke-opacity="1.0" stroke="#dd45bc"/>
+        <path fill="none" stroke-width="19.5"
+              d="M -10377.180664,-11502.044922 C -9545.808594,-12333.417969 -9545.808594,-10670.671875 -10377.180664,-11502.044922"
+              class="id_6" stroke-opacity="1.0" stroke="#ffcecc"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -6335.154785,-13901.377930 C -5519.468750,-14717.064453 -5519.468750,-13085.691406 -6335.154785,-13901.377930"
+              class="id_7" stroke-opacity="1.0" stroke="#fff6bd"/>
+        <path fill="none" stroke-width="14.5"
+              d="M -11954.633789,6501.345703 C -15239.822266,2585.176758 -14293.349609,-8216.857422 -10377.180664,-11502.044922"
+              class="id_4 id_6" stroke-opacity="1.0" stroke="#7fac8a"/>
+        <path fill="none" stroke-width="2.5"
+              d="M -10377.180664,-11502.044922 C -3822.900391,-9254.864258 2637.749023,3947.327148 390.568390,10501.607422"
+              class="id_6 id_3" stroke-opacity="1.0" stroke="#7fd2e0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#00d7f5" r="545.098" cx="390.5684"
+                class="id_3" cy="10501.607" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#bc66ff" r="619.60785" cx="6552.6313"
+                class="id_0" cy="-13804.593" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8038" r="725.4902" cx="12522.62"
+                class="id_1" cy="-2103.8777" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008a48" r="800.0" cx="-11954.634"
+                class="id_4" cy="6501.3457" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3ac700" r="568.62744" cx="11895.714"
+                class="id_2" cy="7232.7363" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff2479" r="678.4314" cx="-13077.38"
+                class="id_5" cy="-2908.2046" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffcecc" r="415.68628" cx="-10377.181"
+                class="id_6" cy="-11502.045" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fff6bd" r="407.84314" cx="-6335.155"
+                class="id_7" cy="-13901.378" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#94ffc8" r="400.0" cx="-2109.84"
+                class="id_8" cy="-15026.9375" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="1090" x="390.5684" y="10757.432" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_3">
+            Littlefinger&apos;s Game
+        </text>
+        <text font-size="1239" x="6552.6313" y="-13579.237" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_0">
+            Essos
+        </text>
+        <text font-size="1451" x="12522.62" y="-1839.7268" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_1">
+            Jon&apos;s Alliance
+        </text>
+        <text font-size="1600" x="-11954.634" y="6871.9185" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_4">
+            King&apos;s Landing
+        </text>
+        <text font-size="1137" x="11895.714" y="7496.0747" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_2">
+            Arya&apos;s Journey
+        </text>
+        <text font-size="1357" x="-13077.38" y="-2589.7158" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_5">
+            Houses Stark, Greyjoy and Tully
+        </text>
+    </g>
+</svg>
