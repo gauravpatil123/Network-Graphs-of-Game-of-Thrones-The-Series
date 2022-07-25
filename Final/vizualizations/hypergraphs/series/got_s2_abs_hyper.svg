@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1719.1929"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-312.755463 -723.462158 1719.192871 1267.622925"
+     height="1267.6229" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="100.0"
+              d="M -9.150746,92.456947 C 50.849255,32.456947 50.849255,152.456940 -9.150746,92.456947"
+              class="id_0" stroke-opacity="1.0" stroke="#eb8d00"/>
+        <path fill="none" stroke-width="30.16279"
+              d="M 1386.437378,524.160767 C 1406.437378,504.160767 1406.437378,544.160767 1386.437378,524.160767"
+              class="id_1" stroke-opacity="1.0" stroke="#e02200"/>
+        <path fill="none" stroke-width="34.822258"
+              d="M -70.561981,-12.656350 C -38.561981,-44.656349 -38.561981,19.343651 -70.561981,-12.656350"
+              class="id_2" stroke-opacity="1.0" stroke="#6fc700"/>
+        <path fill="none" stroke-width="70.83721"
+              d="M -158.490570,-93.087257 C -106.490570,-145.087250 -106.490570,-41.087257 -158.490570,-93.087257"
+              class="id_4" stroke-opacity="1.0" stroke="#754600"/>
+        <path fill="none" stroke-width="33.39701"
+              d="M -58.283974,-703.462158 C -38.283974,-723.462158 -38.283974,-683.462158 -58.283974,-703.462158"
+              class="id_3" stroke-opacity="1.0" stroke="#00c5fa"/>
+        <path fill="none" stroke-width="41.2907"
+              d="M -245.884201,-514.837219 C -219.884201,-540.837219 -219.884201,-488.837219 -245.884201,-514.837219"
+              class="id_5" stroke-opacity="1.0" stroke="#f0c900"/>
+        <path fill="none" stroke-width="20.13123"
+              d="M -158.490570,-93.087257 C -91.513763,-85.846382 -1.909874,25.480139 -9.150746,92.456947"
+              class="id_4 id_0" stroke-opacity="1.0" stroke="#b06900"/>
+        <path fill="none" stroke-width="6.9202657"
+              d="M -9.150746,92.456947 C -42.455654,83.716537 -79.302391,20.648556 -70.561981,-12.656350"
+              class="id_0 id_2" stroke-opacity="1.0" stroke="#adaa00"/>
+        <path fill="none" stroke-width="4.727575"
+              d="M -158.490570,-93.087257 C -260.319275,-159.958527 -312.755463,-413.008514 -245.884201,-514.837219"
+              class="id_4 id_5" stroke-opacity="1.0" stroke="#b28700"/>
+        <path fill="none" stroke-width="3.5215948"
+              d="M -158.490570,-93.087257 C -124.818665,-94.586792 -72.061516,-46.328255 -70.561981,-12.656350"
+              class="id_4 id_2" stroke-opacity="1.0" stroke="#728600"/>
+        <path fill="none" stroke-width="1.2192692"
+              d="M -58.283974,-703.462158 C 43.749680,-561.345886 -16.374275,-195.120911 -158.490570,-93.087257"
+              class="id_3 id_4" stroke-opacity="1.0" stroke="#3a857d"/>
+        <path fill="none" stroke-width="1.5481727"
+              d="M -245.884201,-514.837219 C -77.078659,-440.725037 64.961411,-76.348595 -9.150746,92.456947"
+              class="id_5 id_0" stroke-opacity="1.0" stroke="#edab00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -58.283974,-703.462158 C 110.726494,-554.104980 140.206436,-76.553520 -9.150746,92.456947"
+              class="id_3 id_0" stroke-opacity="1.0" stroke="#75a97d"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#eb8d00" r="30.0" cx="-9.150746"
+                class="id_0" cy="92.45695" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e02200" r="10.0" cx="1386.4374"
+                class="id_1" cy="524.16077" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6fc700" r="16.0" cx="-70.56198"
+                class="id_2" cy="-12.65635" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#754600" r="26.0" cx="-158.49057"
+                class="id_4" cy="-93.08726" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c5fa" r="10.0" cx="-58.283974"
+                class="id_3" cy="-703.46216" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f0c900" r="13.0" cx="-245.8842"
+                class="id_5" cy="-514.8372" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="72" x="-9.150746" y="108.92179" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_0">
+            King&apos;s Landing
+        </text>
+        <text font-size="24" x="1386.4374" y="529.53186" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_1">
+            The Red Waste&amp; Qarth
+        </text>
+        <text font-size="38" x="-70.56198" y="-6.2302437" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_2">
+            Harenhall
+        </text>
+        <text font-size="62" x="-158.49057" y="-82.602554" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_4">
+            The Riverlands&amp; The Stormlands
+        </text>
+        <text font-size="24" x="-58.283974" y="-699.40356" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_3">
+            The Far North
+        </text>
+        <text font-size="31" x="-245.8842" y="-507.78604" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_5">
+            The Iron Islands&amp; Winterfell
+        </text>
+    </g>
+</svg>

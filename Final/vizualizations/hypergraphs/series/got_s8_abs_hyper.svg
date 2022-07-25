@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="314.56653"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-125.375427 -625.167725 314.566528 797.081116" height="797.0811"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="100.0"
+              d="M -42.246765,-475.167755 C 107.753235,-625.167725 107.753235,-325.167755 -42.246765,-475.167755"
+              class="id_0" stroke-opacity="1.0" stroke="#0a89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 139.191086,121.913391 C 189.191086,71.913391 189.191086,171.913391 139.191086,121.913391"
+              class="id_1" stroke-opacity="1.0" stroke="#f97743"/>
+        <path fill="none" stroke-width="3.996243"
+              d="M 139.191086,121.913391 C -16.512711,38.784733 -125.375427,-319.463959 -42.246765,-475.167755"
+              class="id_1 id_0" stroke-opacity="1.0" stroke="#8180a1"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#0a89ff" r="75.0" cx="-42.246765"
+                class="id_0" cy="-475.16776" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="25.0" cx="139.19109"
+                class="id_1" cy="121.91339" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="150" x="-42.246765" y="-440.866" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_0">
+            Stark-Targaryen Allaince
+        </text>
+        <text font-size="50" x="139.19109" y="133.3473" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_1">
+            King&apos;s Landing
+        </text>
+    </g>
+</svg>

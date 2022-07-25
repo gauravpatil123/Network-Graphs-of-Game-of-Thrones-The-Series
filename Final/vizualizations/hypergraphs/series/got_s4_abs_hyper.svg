@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1392.9115"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-265.000000 -845.621948 1392.911499 1313.879150"
+     height="1313.8792" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="22.624434"
+              d="M -185.414398,-134.850876 C -155.985825,-164.279449 -155.985825,-105.422302 -185.414398,-134.850876"
+              class="id_4" stroke-opacity="1.0" stroke="#41cc00"/>
+        <path fill="none" stroke-width="100.0"
+              d="M -40.622055,43.971039 C 9.377945,-6.028961 9.377945,93.971039 -40.622055,43.971039"
+              class="id_0" stroke-opacity="1.0" stroke="#ff960a"/>
+        <path fill="none" stroke-width="24.497738"
+              d="M 1097.625732,289.766724 C 1127.911499,259.481018 1127.911499,320.052429 1097.625732,289.766724"
+              class="id_1" stroke-opacity="1.0" stroke="#e63000"/>
+        <path fill="none" stroke-width="23.0724"
+              d="M 32.397289,-224.808228 C 56.683006,-249.093948 56.683006,-200.522507 32.397289,-224.808228"
+              class="id_2" stroke-opacity="1.0" stroke="#00d4fa"/>
+        <path fill="none" stroke-width="51.457012"
+              d="M -75.162254,-681.864136 C -36.305111,-720.721252 -36.305111,-643.007019 -75.162254,-681.864136"
+              class="id_3" stroke-opacity="1.0" stroke="#9638ff"/>
+        <path fill="none" stroke-width="10.81448"
+              d="M -185.414398,-134.850876 C -120.691544,-128.044952 -33.816143,-20.751818 -40.622055,43.971039"
+              class="id_4 id_0" stroke-opacity="1.0" stroke="#a0b105"/>
+        <path fill="none" stroke-width="11.588235"
+              d="M -149.012695,-532.959839 C -125.584122,-556.388428 -125.584122,-509.531281 -149.012695,-532.959839"
+              class="id_5" stroke-opacity="1.0" stroke="#df75ff"/>
+        <path fill="none" stroke-width="11.303167"
+              d="M 67.963943,-5.166649 C 87.963943,-25.166649 87.963943,14.833351 67.963943,-5.166649"
+              class="id_7" stroke-opacity="1.0" stroke="#f5dc00"/>
+        <path fill="none" stroke-width="14.886878"
+              d="M -253.093124,-823.050537 C -230.521698,-845.621948 -230.521698,-800.479126 -253.093124,-823.050537"
+              class="id_6" stroke-opacity="1.0" stroke="#804d00"/>
+        <path fill="none" stroke-width="9.59276"
+              d="M 32.397289,-224.808228 C 71.549271,-156.448502 27.737665,4.819056 -40.622055,43.971039"
+              class="id_2 id_0" stroke-opacity="1.0" stroke="#7fb582"/>
+        <path fill="none" stroke-width="4.78733"
+              d="M -253.093124,-823.050537 C -189.269653,-830.399414 -82.511147,-745.687622 -75.162254,-681.864136"
+              class="id_6 id_3" stroke-opacity="1.0" stroke="#8b427f"/>
+        <path fill="none" stroke-width="4.2986426"
+              d="M -75.162254,-681.864136 C 88.802490,-575.149902 174.678223,-169.131409 67.963943,-5.166649"
+              class="id_3 id_7" stroke-opacity="1.0" stroke="#c58a7f"/>
+        <path fill="none" stroke-width="2.3438914"
+              d="M -185.414398,-134.850876 C -159.843521,-196.404694 -29.156521,-250.379089 32.397289,-224.808228"
+              class="id_4 id_2" stroke-opacity="1.0" stroke="#20d07d"/>
+        <path fill="none" stroke-width="1.122172"
+              d="M -75.162254,-681.864136 C 37.760841,-611.964844 102.296570,-337.731323 32.397289,-224.808228"
+              class="id_3 id_2" stroke-opacity="1.0" stroke="#4b86fc"/>
+        <path fill="none" stroke-width="1.1628959"
+              d="M -75.162254,-681.864136 C -60.151482,-637.313171 -104.461754,-547.970642 -149.012695,-532.959839"
+              class="id_3 id_5" stroke-opacity="1.0" stroke="#ba56ff"/>
+        <path fill="none" stroke-width="1.1628959"
+              d="M -40.622055,43.971039 C -177.686356,-49.737011 -242.720734,-395.895538 -149.012695,-532.959839"
+              class="id_0 id_5" stroke-opacity="1.0" stroke="#ef8584"/>
+        <path fill="none" stroke-width="1.20362"
+              d="M -253.093124,-823.050537 C -76.346573,-760.500183 94.947678,-401.554779 32.397289,-224.808228"
+              class="id_6 id_2" stroke-opacity="1.0" stroke="#40907d"/>
+        <path fill="none" stroke-width="1.122172"
+              d="M -253.093124,-823.050537 C -174.258896,-785.848511 -111.810638,-611.794067 -149.012695,-532.959839"
+              class="id_6 id_5" stroke-opacity="1.0" stroke="#af617f"/>
+        <path fill="none" stroke-width="1.5294118"
+              d="M -40.622055,43.971039 C -28.732391,12.426300 36.419205,-17.056313 67.963943,-5.166649"
+              class="id_0 id_7" stroke-opacity="1.0" stroke="#fab905"/>
+        <path fill="none" stroke-width="1.3257918"
+              d="M 1097.625732,289.766724 C 820.817078,468.257141 137.868362,320.779724 -40.622055,43.971039"
+              class="id_1 id_0" stroke-opacity="1.0" stroke="#f26305"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 32.397289,-224.808228 C 83.438934,-187.993240 104.778931,-56.208294 67.963943,-5.166649"
+              class="id_2 id_7" stroke-opacity="1.0" stroke="#7ad87d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -149.012695,-532.959839 C -51.100376,-507.611511 57.745613,-322.720520 32.397289,-224.808228"
+              class="id_5 id_2" stroke-opacity="1.0" stroke="#6fa4fc"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#41cc00" r="14.714286" cx="-185.4144"
+                class="id_4" cy="-134.85088" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff960a" r="25.0" cx="-40.622055"
+                class="id_0" cy="43.97104" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e63000" r="15.142857" cx="1097.6257"
+                class="id_1" cy="289.76672" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00d4fa" r="12.142858" cx="32.39729"
+                class="id_2" cy="-224.80823" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9638ff" r="19.428572" cx="-75.162254"
+                class="id_3" cy="-681.86414" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df75ff" r="11.714286" cx="-149.0127"
+                class="id_5" cy="-532.95984" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f5dc00" r="10.0" cx="67.96394"
+                class="id_7" cy="-5.166649" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#804d00" r="11.285714" cx="-253.09312"
+                class="id_6" cy="-823.05054" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="35" x="-185.4144" y="-128.9321" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_4">
+            The Riverlaands
+        </text>
+        <text font-size="60" x="-40.622055" y="57.691742" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_0">
+            King&apos;s Landing
+        </text>
+        <text font-size="36" x="1097.6257" y="294.9552" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_1">
+            Meereen
+        </text>
+        <text font-size="29" x="32.39729" y="-218.21667" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_2">
+            The Eyrie
+        </text>
+        <text font-size="47" x="-75.162254" y="-673.8931" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_3">
+            Castle Black&amp; Mole&apos;s Town
+        </text>
+        <text font-size="28" x="-149.0127" y="-526.591" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_5">
+            Winterfell
+        </text>
+        <text font-size="24" x="67.96394" y="-0.2564926" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_7">
+            Dragonstone
+        </text>
+        <text font-size="27" x="-253.09312" y="-816.9136" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_6">
+            Beyond the Wall
+        </text>
+    </g>
+</svg>

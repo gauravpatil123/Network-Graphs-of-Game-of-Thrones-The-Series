@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1219.3855"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-259.130859 -771.746521 1219.385498 1159.674927"
+     height="1159.6749" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="20.450499"
+              d="M 357.287903,-206.497528 C 377.287903,-226.497528 377.287903,-186.497528 357.287903,-206.497528"
+              class="id_0" stroke-opacity="1.0" stroke="#3ec200"/>
+        <path fill="none" stroke-width="75.306984"
+              d="M 923.702881,111.433060 C 960.254639,74.881332 960.254639,147.984787 923.702881,111.433060"
+              class="id_2" stroke-opacity="1.0" stroke="#cc2500"/>
+        <path fill="none" stroke-width="49.018417"
+              d="M -45.145569,355.514618 C -12.731777,323.100830 -12.731777,387.928406 -45.145569,355.514618"
+              class="id_1" stroke-opacity="1.0" stroke="#ffed00"/>
+        <path fill="none" stroke-width="67.633156"
+              d="M 40.921692,65.062943 C 82.990662,22.993977 82.990662,107.131912 40.921692,65.062943"
+              class="id_4" stroke-opacity="1.0" stroke="#f08100"/>
+        <path fill="none" stroke-width="60.33922"
+              d="M -88.235565,-542.051880 C -44.787289,-585.500183 -44.787289,-498.603607 -88.235565,-542.051880"
+              class="id_3" stroke-opacity="1.0" stroke="#00caff"/>
+        <path fill="none" stroke-width="100.0"
+              d="M -20.072884,-711.746521 C 39.927116,-771.746521 39.927116,-651.746521 -20.072884,-711.746521"
+              class="id_5" stroke-opacity="1.0" stroke="#ad38ff"/>
+        <path fill="none" stroke-width="9.205679"
+              d="M 40.921692,65.062943 C -106.332726,-30.528572 -183.827087,-394.797455 -88.235565,-542.051880"
+              class="id_4 id_3" stroke-opacity="1.0" stroke="#78a57f"/>
+        <path fill="none" stroke-width="5.7866464"
+              d="M 40.921692,65.062943 C 81.798576,140.366730 30.158220,314.637726 -45.145569,355.514618"
+              class="id_4 id_1" stroke-opacity="1.0" stroke="#f7b700"/>
+        <path fill="none" stroke-width="3.811205"
+              d="M 357.287903,-206.497528 C 348.326752,-88.912186 158.507034,74.024078 40.921692,65.062943"
+              class="id_0 id_4" stroke-opacity="1.0" stroke="#97a100"/>
+        <path fill="none" stroke-width="4.115119"
+              d="M -88.235565,-542.051880 C -108.541954,-589.623291 -67.644348,-691.440125 -20.072884,-711.746521"
+              class="id_3 id_5" stroke-opacity="1.0" stroke="#5681ff"/>
+        <path fill="none" stroke-width="3.3553338"
+              d="M 923.702881,111.433060 C 737.872559,278.715271 208.203918,250.893219 40.921692,65.062943"
+              class="id_2 id_4" stroke-opacity="1.0" stroke="#de5300"/>
+        <path fill="none" stroke-width="1.151957"
+              d="M 40.921692,65.062943 C -126.639114,-78.100037 -163.235855,-544.185730 -20.072884,-711.746521"
+              class="id_4 id_5" stroke-opacity="1.0" stroke="#ce5c7f"/>
+        <path fill="none" stroke-width="1.2279356"
+              d="M 357.287903,-206.497528 C 201.072357,-184.503708 -66.241745,-385.836304 -88.235565,-542.051880"
+              class="id_0 id_3" stroke-opacity="1.0" stroke="#1fc67f"/>
+        <path fill="none" stroke-width="1.3039141"
+              d="M -45.145569,355.514618 C 99.807816,112.928604 681.116882,-33.520325 923.702881,111.433060"
+              class="id_1 id_2" stroke-opacity="1.0" stroke="#e58900"/>
+        <path fill="none" stroke-width="1.0759785"
+              d="M -88.235565,-542.051880 C 244.849136,-613.742615 852.012207,-221.651642 923.702881,111.433060"
+              class="id_3 id_2" stroke-opacity="1.0" stroke="#66777f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -45.145569,355.514618 C -233.276871,184.619308 -259.130859,-353.920563 -88.235565,-542.051880"
+              class="id_1 id_3" stroke-opacity="1.0" stroke="#7fdb7f"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#3ec200" r="10.0" cx="357.2879"
+                class="id_0" cy="-206.49753" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cc2500" r="18.275864" cx="923.7029"
+                class="id_2" cy="111.43306" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffed00" r="16.206896" cx="-45.14557"
+                class="id_1" cy="355.51462" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f08100" r="21.034483" cx="40.92169"
+                class="id_4" cy="65.06294" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="21.724138" cx="-88.235565"
+                class="id_3" cy="-542.0519" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ad38ff" r="30.0" cx="-20.072884"
+                class="id_5" cy="-711.7465" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="357.2879" y="-203.01706" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_0">
+            Braavos
+        </text>
+        <text font-size="44" x="923.7029" y="117.76021" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_2">
+            Essos
+        </text>
+        <text font-size="39" x="-45.14557" y="361.17038" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_1">
+            Dorne
+        </text>
+        <text font-size="50" x="40.92169" y="76.496864" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_4">
+            King&apos;s Landing
+        </text>
+        <text font-size="52" x="-88.235565" y="-530.22406" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_3">
+            Winterfell
+        </text>
+        <text font-size="72" x="-20.072884" y="-695.2817" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_5">
+            Night&apos;s Watch
+        </text>
+    </g>
+</svg>

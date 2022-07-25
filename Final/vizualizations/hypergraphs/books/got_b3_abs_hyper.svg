@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1525.1052"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-482.000000 -736.435181 1525.105225 1106.441040" height="1106.441"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="99.40362"
+              d="M -134.858215,108.878723 C -75.483215,49.503723 -75.483215,168.253723 -134.858215,108.878723"
+              class="id_1" stroke-opacity="1.0" stroke="#fa6900"/>
+        <path fill="none" stroke-width="21.439758"
+              d="M -134.858215,108.878723 C -214.535233,160.497437 -411.478851,118.409943 -463.097534,38.732910"
+              class="id_1 id_0" stroke-opacity="1.0" stroke="#a1507f"/>
+        <path fill="none" stroke-width="38.57229"
+              d="M -274.648621,-81.118019 C -228.398621,-127.368019 -228.398621,-34.868019 -274.648621,-81.118019"
+              class="id_2" stroke-opacity="1.0" stroke="#00aee6"/>
+        <path fill="none" stroke-width="1.0542169"
+              d="M -47.888306,58.817680 C 218.548035,-97.143372 852.144165,68.569550 1008.105225,335.005890"
+              class="id_3 id_5" stroke-opacity="1.0" stroke="#e57900"/>
+        <path fill="none" stroke-width="24.096386"
+              d="M -47.888306,58.817680 C -16.013306,26.942680 -16.013306,90.692680 -47.888306,58.817680"
+              class="id_3" stroke-opacity="1.0" stroke="#f0df00"/>
+        <path fill="none" stroke-width="26.96988"
+              d="M -463.097534,38.732910 C -426.222534,1.857910 -426.222534,75.607910 -463.097534,38.732910"
+              class="id_0" stroke-opacity="1.0" stroke="#4838ff"/>
+        <path fill="none" stroke-width="100.0"
+              d="M -217.596313,-676.435181 C -157.596313,-736.435181 -157.596313,-616.435181 -217.596313,-676.435181"
+              class="id_4" stroke-opacity="1.0" stroke="#b557ff"/>
+        <path fill="none" stroke-width="1.5421686"
+              d="M -217.596313,-676.435181 C -123.662949,-484.301300 -270.963684,-55.200462 -463.097534,38.732910"
+              class="id_4 id_0" stroke-opacity="1.0" stroke="#7e47ff"/>
+        <path fill="none" stroke-width="4.686747"
+              d="M -217.596313,-676.435181 C -36.604141,-563.326233 65.220657,-122.174484 -47.888306,58.817680"
+              class="id_4 id_3" stroke-opacity="1.0" stroke="#d29b7f"/>
+        <path fill="none" stroke-width="2.8975904"
+              d="M -463.097534,38.732910 C -109.602364,-196.253052 773.119202,-18.489288 1008.105225,335.005890"
+              class="id_0 id_5" stroke-opacity="1.0" stroke="#91267f"/>
+        <path fill="none" stroke-width="29.084337"
+              d="M 1008.105225,335.005890 C 1043.105225,300.005890 1043.105225,370.005890 1008.105225,335.005890"
+              class="id_5" stroke-opacity="1.0" stroke="#db1400"/>
+        <path fill="none" stroke-width="45.13253"
+              d="M -329.495911,-27.587900 C -295.745911,-61.337898 -295.745911,6.162100 -329.495911,-27.587900"
+              class="id_6" stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="2.1385543"
+              d="M -329.495911,-27.587900 C -415.058685,-143.442886 -369.620361,-445.569550 -253.765366,-531.132324"
+              class="id_6 id_7" stroke-opacity="1.0" stroke="#4a914a"/>
+        <path fill="none" stroke-width="3.060241"
+              d="M -329.495911,-27.587900 C -329.232483,-49.263382 -296.324097,-81.381454 -274.648621,-81.118019"
+              class="id_6 id_2" stroke-opacity="1.0" stroke="#00b5bd"/>
+        <path fill="none" stroke-width="15.692771"
+              d="M -329.495911,-27.587900 C -263.275024,-39.222115 -146.492432,42.657856 -134.858215,108.878723"
+              class="id_6 id_1" stroke-opacity="1.0" stroke="#7d934a"/>
+        <path fill="none" stroke-width="4.1445785"
+              d="M -329.495911,-27.587900 C -342.952087,12.396586 -423.113037,52.189075 -463.097534,38.732910"
+              class="id_6 id_0" stroke-opacity="1.0" stroke="#247ac9"/>
+        <path fill="none" stroke-width="1.3253012"
+              d="M -329.495911,-27.587900 C -436.885437,-179.737274 -369.745667,-569.045654 -217.596313,-676.435181"
+              class="id_6 id_4" stroke-opacity="1.0" stroke="#5a8ac9"/>
+        <path fill="none" stroke-width="1.6506025"
+              d="M -274.648621,-81.118019 C -201.309418,-98.482941 -65.253235,-14.521523 -47.888306,58.817680"
+              class="id_2 id_3" stroke-opacity="1.0" stroke="#78c673"/>
+        <path fill="none" stroke-width="10.271085"
+              d="M -274.648621,-81.118019 C -208.691193,-71.076752 -124.816956,42.921295 -134.858215,108.878723"
+              class="id_2 id_1" stroke-opacity="1.0" stroke="#7d8b73"/>
+        <path fill="none" stroke-width="18.891565"
+              d="M -253.765366,-531.132324 C -230.015366,-554.882324 -230.015366,-507.382324 -253.765366,-531.132324"
+              class="id_7" stroke-opacity="1.0" stroke="#946600"/>
+        <path fill="none" stroke-width="4.361446"
+              d="M -253.765366,-531.132324 C -275.592133,-567.426697 -253.890701,-654.608459 -217.596313,-676.435181"
+              class="id_7 id_4" stroke-opacity="1.0" stroke="#a45e7f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -253.765366,-531.132324 C -181.658752,-375.292847 -307.258057,-33.373703 -463.097534,38.732910"
+              class="id_7 id_0" stroke-opacity="1.0" stroke="#6e4f7f"/>
+        <path fill="none" stroke-width="4.415663"
+              d="M -253.765366,-531.132324 C -167.939148,-436.952820 -180.469116,-166.944229 -274.648621,-81.118019"
+              class="id_7 id_2" stroke-opacity="1.0" stroke="#4a8a73"/>
+        <path fill="none" stroke-width="1.9216868"
+              d="M -253.765366,-531.132324 C -101.981720,-426.911560 -30.637436,-42.904919 -134.858215,108.878723"
+              class="id_7 id_1" stroke-opacity="1.0" stroke="#c76700"/>
+        <path fill="none" stroke-width="7.6686745"
+              d="M -463.097534,38.732910 C -449.377930,-22.927057 -336.308594,-94.837616 -274.648621,-81.118019"
+              class="id_0 id_2" stroke-opacity="1.0" stroke="#2473f2"/>
+        <path fill="none" stroke-width="4.63253"
+              d="M -47.888306,58.817680 C -55.270081,86.223869 -107.452026,116.260498 -134.858215,108.878723"
+              class="id_3 id_1" stroke-opacity="1.0" stroke="#f5a400"/>
+        <path fill="none" stroke-width="1.7048193"
+              d="M -274.648621,-81.118019 C -382.301575,-211.591919 -348.070190,-568.782227 -217.596313,-676.435181"
+              class="id_2 id_4" stroke-opacity="1.0" stroke="#5a82f2"/>
+        <path fill="none" stroke-width="2.626506"
+              d="M -47.888306,58.817680 C -134.947098,137.842575 -384.072662,125.791710 -463.097534,38.732910"
+              class="id_3 id_0" stroke-opacity="1.0" stroke="#9c8b7f"/>
+        <path fill="none" stroke-width="1.6506025"
+              d="M -134.858215,108.878723 C 138.959900,-74.488525 824.738037,61.187775 1008.105225,335.005890"
+              class="id_1 id_5" stroke-opacity="1.0" stroke="#ea3e00"/>
+        <path fill="none" stroke-width="1.813253"
+              d="M -217.596313,-676.435181 C -43.985901,-535.919983 5.656952,-64.731689 -134.858215,108.878723"
+              class="id_4 id_1" stroke-opacity="1.0" stroke="#d7607f"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#fa6900" r="29.6875" cx="-134.85822"
+                class="id_1" cy="108.87872" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4838ff" r="18.4375" cx="-463.09753"
+                class="id_0" cy="38.73291" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00aee6" r="23.125" cx="-274.64862"
+                class="id_2" cy="-81.11802" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f0df00" r="15.9375" cx="-47.888306"
+                class="id_3" cy="58.81768" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#db1400" r="17.5" cx="1008.1052"
+                class="id_5" cy="335.0059" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b557ff" r="30.0" cx="-217.59631"
+                class="id_4" cy="-676.4352" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="16.875" cx="-329.4959"
+                class="id_6" cy="-27.5879" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#946600" r="11.875" cx="-253.76537"
+                class="id_7" cy="-531.1323" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="71" x="-134.85822" y="125.11489" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_1">
+            King&apos;s Landing
+        </text>
+        <text font-size="44" x="-463.09753" y="48.723145" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_0">
+            The Brave Companions
+        </text>
+        <text font-size="56" x="-274.64862" y="-68.3895" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_2">
+            The Stark Army
+        </text>
+        <text font-size="38" x="-47.888306" y="65.24379" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_3">
+            Stannis Baratheon&apos;s Southern Forces
+        </text>
+        <text font-size="42" x="1008.1052" y="344.5591" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_5">
+            Slaver&apos;s Bay of Essos
+        </text>
+        <text font-size="72" x="-217.59631" y="-659.97034" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_4">
+            The Night&apos;s Watch&amp; The Wildlings
+        </text>
+        <text font-size="41" x="-329.4959" y="-20.654469" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_6">
+            The Brotherhood without Banners
+        </text>
+        <text font-size="29" x="-253.76537" y="-526.2282" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_7">
+            Bran Stark&amp; Friends
+        </text>
+    </g>
+</svg>

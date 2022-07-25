@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1398.4214"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-9.800781 -617.936096 1398.421387 1055.184692" height="1055.1847"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="45.45804"
+              d="M 66.541931,-32.580818 C 126.541931,-92.580818 126.541931,27.419182 66.541931,-32.580818"
+              class="id_5" stroke-opacity="1.0" stroke="#e02f00"/>
+        <path fill="none" stroke-width="46.092247"
+              d="M 1352.450439,218.905197 C 1388.620605,182.734985 1388.620605,255.075409 1352.450439,218.905197"
+              class="id_0" stroke-opacity="1.0" stroke="#2fa300"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1352.450439,218.905197 C 1105.581909,437.248596 407.764069,394.460938 189.420654,147.592438"
+              class="id_0 id_3" stroke-opacity="1.0" stroke="#97a500"/>
+        <path fill="none" stroke-width="41.525944"
+              d="M 145.320053,-578.361633 C 184.894531,-617.936096 184.894531,-538.787170 145.320053,-578.361633"
+              class="id_2" stroke-opacity="1.0" stroke="#b242ff"/>
+        <path fill="none" stroke-width="100.0"
+              d="M 189.420654,147.592438 C 240.910019,96.103073 240.910019,199.081802 189.420654,147.592438"
+              class="id_3" stroke-opacity="1.0" stroke="#ffa800"/>
+        <path fill="none" stroke-width="24.973095"
+              d="M 189.420654,147.592438 C 128.810257,136.133530 55.083027,28.029575 66.541931,-32.580818"
+              class="id_3 id_5" stroke-opacity="1.0" stroke="#ef6b00"/>
+        <path fill="none" stroke-width="4.805253"
+              d="M 145.320053,-578.361633 C 238.720581,-453.449860 191.453720,-125.981361 66.541931,-32.580818"
+              class="id_2 id_5" stroke-opacity="1.0" stroke="#c9387f"/>
+        <path fill="none" stroke-width="1.507367"
+              d="M 188.014481,87.550110 C 46.293259,-37.093346 20.676590,-436.640411 145.320053,-578.361633"
+              class="id_1 id_2" stroke-opacity="1.0" stroke="#849e7f"/>
+        <path fill="none" stroke-width="4.61499"
+              d="M 188.014481,87.550110 C 61.768112,9.016354 -9.800781,-298.153839 68.732971,-424.400177"
+              class="id_1 id_4" stroke-opacity="1.0" stroke="#40df7f"/>
+        <path fill="none" stroke-width="3.6636772"
+              d="M 188.014481,87.550110 C 139.693787,87.818436 66.810257,15.739878 66.541931,-32.580818"
+              class="id_1 id_5" stroke-opacity="1.0" stroke="#9b9400"/>
+        <path fill="none" stroke-width="33.661755"
+              d="M 188.014481,87.550110 C 200.304184,99.277344 201.147888,135.302734 189.420654,147.592438"
+              class="id_1 id_3" stroke-opacity="1.0" stroke="#abd100"/>
+        <path fill="none" stroke-width="41.84305"
+              d="M 188.014481,87.550110 C 227.588959,47.975639 227.588959,127.124580 188.014481,87.550110"
+              class="id_1" stroke-opacity="1.0" stroke="#57fa00"/>
+        <path fill="none" stroke-width="8.673927"
+              d="M 145.320053,-578.361633 C 160.794937,-532.251892 114.842674,-439.875061 68.732971,-424.400177"
+              class="id_2 id_4" stroke-opacity="1.0" stroke="#6d83ff"/>
+        <path fill="none" stroke-width="1.9513133"
+              d="M 145.320053,-578.361633 C 299.330994,-441.990936 325.791382,-6.418509 189.420654,147.592438"
+              class="id_2 id_3" stroke-opacity="1.0" stroke="#d8757f"/>
+        <path fill="none" stroke-width="15.967329"
+              d="M 68.732971,-424.400177 C 146.658630,-345.598114 145.344025,-110.506485 66.541931,-32.580818"
+              class="id_4 id_5" stroke-opacity="1.0" stroke="#847a7f"/>
+        <path fill="none" stroke-width="7.4689302"
+              d="M 68.732971,-424.400177 C 207.269043,-334.139191 279.681641,9.056372 189.420654,147.592438"
+              class="id_4 id_3" stroke-opacity="1.0" stroke="#94b67f"/>
+        <path fill="none" stroke-width="35.247276"
+              d="M 68.732971,-424.400177 C 103.201057,-458.868256 103.201057,-389.932098 68.732971,-424.400177"
+              class="id_4" stroke-opacity="1.0" stroke="#29c5ff"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#e02f00" r="30.0" cx="66.54193"
+                class="id_5" cy="-32.58082" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2fa300" r="18.085106" cx="1352.4504"
+                class="id_0" cy="218.9052" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffa800" r="25.744682" cx="189.42065"
+                class="id_3" cy="147.59244" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b242ff" r="19.787235" cx="145.32005"
+                class="id_2" cy="-578.36163" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#57fa00" r="19.787235" cx="188.01448"
+                class="id_1" cy="87.55011" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#29c5ff" r="17.234043" cx="68.73297"
+                class="id_4" cy="-424.40018" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="72" x="66.54193" y="-20.405037" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_5">
+            The Riverlands
+        </text>
+        <text font-size="43" x="1352.4504" y="226.17685" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_0">
+            The Dothraki
+        </text>
+        <text font-size="62" x="189.42065" y="161.7705" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_3">
+            King&apos;s Landing
+        </text>
+        <text font-size="47" x="145.32005" y="-567.6138" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_2">
+            The Night&apos;s Watch
+        </text>
+        <text font-size="47" x="188.01448" y="98.23297" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_1">
+            The Royal Children
+        </text>
+        <text font-size="41" x="68.73297" y="-415.0744" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gabriola" class="id_4">
+            Winterfell
+        </text>
+    </g>
+</svg>
