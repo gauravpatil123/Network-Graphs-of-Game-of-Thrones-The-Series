@@ -11,6 +11,7 @@ Network Graph Visualizations of the Game of Thrones TV series & Book collection
 **About**</br>
 I have constructed network graphs of the interactions between characters on the game of thrones TV series as well as the book collection on which the TV series is based upon. I have used Gephi to create the graph visualizations.
 
+*All files are in the Final directory*<br/>
 *To execute the program run the main.py script* <br/> 
 *To create the hypergraphs run the hypergraph.py script*
 
